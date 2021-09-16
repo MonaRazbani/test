@@ -3,6 +3,7 @@ public class Main {
         System.out.println("hello !");
         System.out.println("bye !");
         System.out.println("delete ");
+        System.out.println("pull");
     }
 }
 
